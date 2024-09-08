@@ -1,0 +1,7 @@
+.segment .segment-header {
+    background-color: #0D98BA;
+    color: white;
+    padding-block: 5pt;
+    display: flex;
+    align-items: center;
+}
